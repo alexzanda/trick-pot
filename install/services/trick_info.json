@@ -1,0 +1,19 @@
+[
+    {
+        "protocol": "tcp",
+        "port": "23",
+        "service": "ftp",
+        "resp_datas": [
+            "MjIwLXNpbHZlci5zdXBlcmhvc3RpbmcuYmcgRVNNVFAgRXhpbSA0Ljk2LjIgIzIgTW9uLCAwNiBOb3YgMjAyMyAwOTozNTo0MCArMDIwMA==",
+            "XHgwNFx4MDFceDAwXHgyNVx4MDBceDAwXHgwMVx4MDBceDAwXHgwMFx4MTVceDAwXHgwNlx4MDFceDAwXHgxYlx4MDBceDAxXHgwMlx4MDBceDFjXHgwMFx4MDFceDAzXHgwMFx4MWRceDAwXHgwMFx4ZmZcbjJceDBmXHhhMFx4MDBceDAwXHgwMFx4MDA="
+        ]
+    },{
+        "protocol": "udp",
+        "port": "25",
+        "service": "ftp",
+        "resp_datas": [
+            "MjIwLXNpbHZlci5zdXBlcmhvc3RpbmcuYmcgRVNNVFAgRXhpbSA0Ljk2LjIgIzIgTW9uLCAwNiBOb3YgMjAyMyAwOTozNTo0MCArMDIwMA==",
+            "XHgwNFx4MDFceDAwXHgyNVx4MDBceDAwXHgwMVx4MDBceDAwXHgwMFx4MTVceDAwXHgwNlx4MDFceDAwXHgxYlx4MDBceDAxXHgwMlx4MDBceDFjXHgwMFx4MDFceDAzXHgwMFx4MWRceDAwXHgwMFx4ZmZcbjJceDBmXHhhMFx4MDBceDAwXHgwMFx4MDA="
+        ]
+    }
+]

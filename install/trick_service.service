@@ -1,0 +1,14 @@
+[Unit]
+Description=trick-service
+Documentation=""
+After=network.target
+
+[Service]
+Type=simple
+PIDFile=/run/trick-service.pid
+ExecStart=/bin/bash  /var/services/start.sh
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s TERM $MAINPID
+
+[Install]
+WantedBy=multi-user.target
